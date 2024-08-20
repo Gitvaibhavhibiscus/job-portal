@@ -4,7 +4,7 @@ import Uploadjob from "@/app/employer/uploadjob/page"
 import Newjob from '@/app/employer/newjob/page';
 
 // Define your React components for each tab
-const TabContent1 = () => <div><Empdashboard /></div>;
+const TabContent1 = () => <div><Uploadjob /></div>;
 const TabContent2 = () => <div><Uploadjob /></div>;
 const TabContent3 = () => <div><Newjob /></div>;
 
