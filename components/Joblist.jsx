@@ -1,6 +1,5 @@
 import { Divider, Tabs } from 'antd';
 import React from 'react';
-import Empdashboard from "@/app/employer/empdashboard/page"
 import Uploadjob from "@/app/employer/uploadjob/page"
 import Newjob from '@/app/employer/newjob/page';
 
